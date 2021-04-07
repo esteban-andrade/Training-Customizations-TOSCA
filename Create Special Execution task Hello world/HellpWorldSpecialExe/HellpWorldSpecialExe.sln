@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HellpWorldSpecialExe", "HellpWorldSpecialExe.csproj", "{46C8A27E-783D-458B-B1DA-B69B03B42A99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C8A27E-783D-458B-B1DA-B69B03B42A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C8A27E-783D-458B-B1DA-B69B03B42A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C8A27E-783D-458B-B1DA-B69B03B42A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C8A27E-783D-458B-B1DA-B69B03B42A99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D25725-3F68-45CD-A45B-41CBF3A10A37}
+	EndGlobalSection
+EndGlobal
